@@ -11,18 +11,18 @@ image: amp2025/amp2025-1.jpg
 
 Hello Dear Reader,
 
-Recently I was browsing eBay to find an interesting case for my new tube power amplifier. For experiments and tests I have been using old equipment to case my projects. In this way I am reusing old equipment and save The Planet from electronic waste. I bought a Bush Acoustics AMP2025 amplifier. It has a low profile case with a lot of holes on top and bottom, which means it has a very good ventilation. Price was around £15 without postage.
+Recently I was browsing eBay to find an interesting case for my new tube power amplifier. For experiments and tests I have been using old equipment to case my projects. In this way I am reusing old equipment and save The Planet from electronic waste. I bought a Bush Acoustics AMP2025 amplifier. It has a low profile case with a lot of holes on top and bottom, which means it has a very good ventilation. Price was around £30 without postage.
 The plan I had in mind is to remove all internals and host my own tube amplifier and use this lovely ventilated case and rest of the parts for other builds.
 
 ![Bush Acoustics AMP2025](assets/img/amp2025/amp2025-2.jpg){:class="img-responsive"}
 
 <center> Fig. 1 </center>
 
-When it comes home, I opened it and I was surprised of how good it was build! It have very clean design and all areas of the board are marked like: "Preamp, Power, Protect, Phono EQ, Input part..." etc. The left and right channel are marked and separate on the board. Audio signal comes from two twisted cables from the preamp to the power amp to each channel.
+When it comes home, I opened it and I was surprised how good it was build! It have very clean design and all areas of the board are marked like: "Preamp, Power, Protect, Phono EQ, Input part..." etc. The left and right channel are marked and separate on the board. Audio signal comes from two twisted cables from the preamp to the power amp to each channel.
 
 Expired from [Lampizator website](http://www.lampizator.eu) I decide that this little amp is a perfect candidate to integrate a tube preamp. 
 
-## Preamp board kit
+## 6J1 Preamp board kit
 
 For the preamp I used 6J1 preamp kit bought from AliExpress.
 
@@ -79,7 +79,7 @@ Schematic was build on piece of prototyping board and parts was reused from othe
 ## Power supply with delay
 
 Tubes requires some time to heat to start working properly. For 6J1 tubes I measured around 10 sec.
-The original schematic (Fig. 3) has time delay and filtering on + rail and - rail. Left part of schematic has voltage multiplier, which I am not going to use, because the amp already has positive and negative rails with 37.5V. So, I build only from C2 and C6 right, ignoring left part. From C3 and C7 depends the delay time. With this schematic I achieved around 10 sec. delay till full power. With this part I resolved the second problem from the list above. In this way there is no scratching sound on speakers, when I turn the power amp on. The source power for this board comes from marked on Fig. 4 Power +37.5V, GND and -37.5V.
+The original schematic (Fig. 3) has time delay and filtering on + rail and - rail. Left part of schematic has voltage multiplier, which I am not using, because the amp already has positive and negative rails with 37.5V. So, I build only from C2 and C6 right, ignoring left part. From C3 and C7 depends the delay time. With this schematic I achieved around 10 sec. delay till full power. With this part I resolved the second problem from the list above. In this way there is no scratching sound on speakers, when I turn the power amp on. The source power for this board comes from marked on Fig. 4 Power +37.5V, GND and -37.5V.
 
 ## Audio input / output / ground
 
@@ -105,12 +105,13 @@ The AMP2025 is a low profile. I wanted the tubes to be horizontal, but the pream
 
 Left part I used to build Tube PreAmp Cathode Follower. Middle one to build Time Delay Power Supply and the right I am going to use in some other project.
 
+Here is the final (or semifinal) build.
 
 ![AMP2025 with Tube PreAmp](assets/img/amp2025/AMP2025-6J1-tube-preamp.jpg){:class="img-responsive"}
 
 <center> Fig. 8 </center>
 
-## How it is sound?
+## How is it sounds?
 
 It sounds very, very nice for my ears. Very good and strong base and relaxing music spectrum.
 
