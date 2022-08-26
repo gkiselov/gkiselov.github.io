@@ -55,7 +55,7 @@ I did try to find Service manual for Bush Acoustics AMP2025 without success. So,
 
 <center> Fig. 4 </center>
 
-It is very well designed amp, indeed! As you can see on the picture, L and R channels of the power amp are well separated and there is a twisted pair cables, connecting inputs of the amp to the outputs of the preamp. There is a Phono preamp as well (on the right on the picture), which is a very good for vinyl lovers. It uses JRC2068 Low Noise Dual Operational Amplifier. There is 5 inputs, including Phono and one line out output. Next to speaker connectors, you can see the relay. It has about 6 sec. delay, when amp is powered up. Huge filtering caps 6800uF/50V each. Input selector, volume, balance, tone, etc. are microprocessor controlled via the white cable in the middle. Front panel has a very nice display, volume wheel and knobs.
+It is very well designed amp, indeed! As you can see on the picture, L and R channels of the power amp are well separated and there is a twisted pair cables, connecting inputs of the amp to the outputs of the preamp. There is a Phono preamp as well (on the right of the picture), which is a very good for vinyl lovers. It uses JRC2068 Low Noise Dual Operational Amplifier. There is 5 inputs, including Phono and one line out output. Next to speaker connectors, you can see the relay. It has about 6 sec. delay, when amp is powered up. Huge filtering caps 6800uF/50V each. Input selector, volume, balance, tone, etc. are microprocessor controlled via the white cable in the middle. Front panel has a very nice display, volume wheel and knobs.
 
 When I saw this layout, I thought "Fantastic! I will cut R and L twisted pairs and connect the tube preamp there." And I did it... :) 
 
