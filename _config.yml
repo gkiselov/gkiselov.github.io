@@ -11,9 +11,9 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "MbGLab"
-description:	       "My blog for tube amplifires, pre-amp and other projects"
-author:              "Georgi Kiselov"
+description:	       "Audio Research and Development devision"
+author:              "Northtronics Ltd."
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+feed:
+  path: rss-feed.xml
