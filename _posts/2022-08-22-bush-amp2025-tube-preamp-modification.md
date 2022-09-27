@@ -4,7 +4,7 @@ title: Tube preamp modification for Bush Acoustics AMP2025
 author: Georgi Kiselov
 categories: blog
 tags: [blog,tubes,valves,modifications]
-image: amp2025/amp2025-1-big.jpg
+image: assets/img/amp2025/amp2025-1-big.jpg
 ---
 
 ## Overview
