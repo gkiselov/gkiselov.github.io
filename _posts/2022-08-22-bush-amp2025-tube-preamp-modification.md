@@ -5,7 +5,7 @@ description: How to modify Bush Acoustics AMP2025 amplifier to integrate tube pr
 author: Georgi Kiselov
 categories: blog
 tags: [blog,tubes,valves,modifications]
-image: amp2025/amp2025-1.jpg
+image: /assets/img/amp2025/amp2025-1.jpg
 ---
 
 ## Overview
