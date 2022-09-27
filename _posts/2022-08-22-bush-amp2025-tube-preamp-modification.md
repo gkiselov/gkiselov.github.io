@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Tube preamp modification for Bush Acoustics AMP2025
+description: How to modify Bush Acoustics AMP2025 amplifier to integrate tube preamp and enjoy tube like sound.
 author: Georgi Kiselov
 categories: blog
 tags: [blog,tubes,valves,modifications]
 image: amp2025/amp2025-1-big.jpg
-description: Test
 ---
 
 ## Overview
