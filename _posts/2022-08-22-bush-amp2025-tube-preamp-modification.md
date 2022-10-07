@@ -12,7 +12,7 @@ image: /assets/img/amp2025/amp2025-1.jpg
 
 Hello Dear Reader,
 
-Recently I was browsing eBay to find an interesting case for my new tube power amplifier. For experiments and tests I have been using old equipment to case my projects. In this way I am reusing old equipment and save The Planet from electronic waste. I bought a Bush Acoustics AMP2025 amplifier. It has a low profile case with a lot of holes on top and bottom, which means it has a very good ventilation. Price was around £30 without postage.
+Recently I was browsing eBay to find an interesting case for my new tube power amplifier. For experiments and tests I have been using old equipment to case my projects. In this way I am reusing old equipment and save The Planet from electronic waste. I bought a Bush Acoustics AMP2025 amplifier. It has a low profile case with a lot of holes on top and bottom, which means it has a very good ventilation. Price was around £65 without postage.
 The plan I had in mind is to remove all internals and host my own tube amplifier and use this lovely ventilated case and rest of the parts for other builds.
 
 ![Bush Acoustics AMP2025](assets/img/amp2025/amp2025-2.jpg){:class="img-responsive"}
